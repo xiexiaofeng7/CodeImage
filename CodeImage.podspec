@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "http://www.bukovinski.com"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
-  s.author       = { "xiexiaofeng" => "815040727@qq.com" }
+  s.author       = { "xiexiaofeng7" => "815040727@qq.com" }
   s.source       = { :git => "https://github.com/xiexiaofeng7/CodeImage.git", :tag => s.version.to_s }
   s.ios.deployment_target = '1.0'
   s.tvos.deployment_target = '9.0'
